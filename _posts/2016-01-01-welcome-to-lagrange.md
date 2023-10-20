@@ -4,7 +4,7 @@ title: "Ready to CHECKOUT?"
 author: "Nigel Pacheco"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: checko_logo.png
 ---
 
 This blog will serve as a literary regurgitation of my every thought and fiber. My whole being in the form of constants and syllables, that construe very little meaning. Welcome and enjoy!
